@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "dfh",
-        "description": "fgj",
-        "category": "gh",
+        "title": "Пример",
+        "description": "Пример",
+        "category": "Пример",
         "due_date": "2222-11-11",
         "priority": "низкий",
         "status": "Не выполнена"
